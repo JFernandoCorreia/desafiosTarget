@@ -149,3 +149,9 @@ console.log('String invertida:', inverterString(stringOriginal));
 </code></div></div></pre>
 
 **Resultado:** Inverte a string manualmente, sem usar funções prontas.
+
+
+## Requisitos
+
+* Node.js instalado.
+* O arquivo `dados.json`   foi utilizado para solução do Desafio 3.
